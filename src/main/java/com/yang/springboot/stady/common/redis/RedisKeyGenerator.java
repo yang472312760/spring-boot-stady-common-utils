@@ -6,7 +6,7 @@
  */
 package com.yang.springboot.stady.common.redis;
 
-import com.bingo.framework.common.util.ArrayUtils;
+import com.yang.springboot.stady.common.util.ArrayUtils;
 import java.lang.reflect.Method;
 import java.util.Date;
 import java.util.List;
